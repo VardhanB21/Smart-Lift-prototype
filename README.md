@@ -50,12 +50,16 @@ This prototype is built entirely from scratch, showcasing the innovation and tec
 
 ### Prototype Image
 
-![Prototype Image](lift1.jpeg)
-![Prototype Image](lift2.jpeg)
+<p align="center">
+  <img src="lift1.jpeg" alt="Prototype Image" width="300" style="border:1px solid black; margin: 10px;">
+  <img src="lift2.jpeg" alt="Prototype Image" width="300" style="border:1px solid black; margin: 10px;">
+</p>
 
 ### PCB Design for Buttons
 
-![PCB Design for Buttons](pcb(2).jpeg)
+<p align="center">
+  <img src="pcb (2).jpeg" alt="PCB Design for Buttons" width="300" style="border:1px solid black; margin: 10px;">
+</p>
 
 ## Usage
 
