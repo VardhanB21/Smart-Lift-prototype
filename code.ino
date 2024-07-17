@@ -55,23 +55,23 @@ void moveElevator() {
   for(i=0;i<steps;i++){
     stepper.rotate(180*37*(-1)* direction);
     currentFloor = currentFloor + direction;
-                                       // if(digitalRead(irSensor) == HIGH){
-                                       //  targetFloor = currentFloor;
-                                      // break;
-                                      // }
+                                        if(digitalRead(irSensor) == HIGH){
+                                         targetFloor = currentFloor;
+                                       break;
+                                       }
   }
   
   
-  //if(i == steps){
-    // Open the elevator door
-    //openDoor();
+  if(i == steps){
+     Open the elevator door
+    openDoor();
 
-    // Wait for a few seconds with the door open
-    //delay(5000);
+     Wait for a few seconds with the door open
+    delay(5000);
 
-    // Close the elevator door
-    //closeDoor();
-  //}
+     Close the elevator door
+    closeDoor();
+  }
  
 }
 
