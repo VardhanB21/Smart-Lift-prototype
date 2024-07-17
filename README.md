@@ -50,11 +50,12 @@ This prototype is built entirely from scratch, showcasing the innovation and tec
 
 ### Prototype Image
 
-(Attach image of the prototype here)
+![Prototype Image](lift1.jpeg)
+![Prototype Image](lift2.jpeg)
 
 ### PCB Design for Buttons
 
-(Attach image of the PCB design for buttons here)
+![PCB Design for Buttons](pcb(2).jpeg)
 
 ## Usage
 
@@ -67,4 +68,4 @@ This prototype is built entirely from scratch, showcasing the innovation and tec
 
 This Smart Lift Prototype is an energy-efficient solution to traditional elevator systems. By leveraging Arduino and IR sensors, it reduces unnecessary movements, optimizing energy usage and improving operational efficiency.
 
-Feel free to modify the system to suit specific requirements or enhance its functionality further. For any questions
+Feel free to modify the system to suit specific requirements or enhance its functionality further. For any questions or suggestions, please contact us.
